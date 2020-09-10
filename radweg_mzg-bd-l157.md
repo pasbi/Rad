@@ -24,3 +24,14 @@ In Merzig machen parkende Autos den Weg unzumutbar eng, der Zustand der Deckschi
   <img alt="Weg in Merzig Losheimerstr. 3" src="media/mzg-losheimer-str-kaputt.jpg" width="40%"/>
 </p>
 
+## Verbesserungsvorschläge:
+1. Ausbau
+  - baulich getrennter Radweg Außerorts (zumindest Leitplanke)
+  - Schutz am Abzweig L370
+  - Halteverbot (mit konsequentem Durchsetzen) oder breitere Wege im Bereich Merzig
+  - Breitere Wege im Bereich Brotdorf
+2. Umleitung Rotenstein
+  - konsistente Beschilderung
+
+## Alternativ-Routen
+- [Rotensteiner Weg / Klinkerstraße](radweg_bd-mzg-rotenstein.md)
