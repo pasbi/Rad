@@ -26,12 +26,14 @@ In Merzig machen parkende Autos den Weg unzumutbar eng, der Zustand der Deckschi
 
 ## Verbesserungsvorschläge:
 1. Ausbau
-  - baulich getrennter Radweg Außerorts (zumindest Leitplanke)
-  - Schutz am Abzweig L370
-  - Halteverbot (mit konsequentem Durchsetzen) oder breitere Wege im Bereich Merzig
-  - Breitere Wege im Bereich Brotdorf
+  - baulich getrennter Radweg außerorts (zumindest Leitplanke)
+  - verbreiterung des jetztigen Seitenstreifens
+  - Schutz am Abzweig L370 (baulich, durch Markierung und Beschilderung)
+  - im Bereich Merzig: Halteverbot (mit konsequenter Durchsetzung) oder breitere Wege
+  - im Bereich Brotdorf: Breitere Wege
 2. Umleitung Rotenstein
   - konsistente Beschilderung
 
 ## Alternativ-Routen
 - [Rotensteiner Weg / Klinkerstraße](radweg_bd-mzg-rotenstein.md)
+
