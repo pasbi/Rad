@@ -18,4 +18,9 @@ In Brotdorf ist der Weg in schlechtem Zustand, der Abzweig der L370 ist gefährl
 <p float="middle">
   <img alt="Weg in Brotdorf 1" src="media/bd-L157-L370-1.jpg" width="40%"/>
 </p>
+In Merzig machen parkende Autos den Weg unzumutbar eng, der Zustand der Deckschicht ist schlecht.
+<p float="middle">
+  <img alt="Weg in Merzig Losheimerstr. eng" src="media/mzg-losheimer-str-eng.jpg" width="40%"/>
+  <img alt="Weg in Merzig Losheimerstr. 3" src="media/mzg-losheimer-str-kaputt.jpg" width="40%"/>
+</p>
 
