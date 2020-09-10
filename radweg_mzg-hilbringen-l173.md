@@ -27,4 +27,4 @@ Engstelle an der Abzweigung Rehstr. (Beim König Kebab).
 2. Ertüchtigung der Ausweichroute durch die Saarwiesen
 
 ## Alternativ-Routen
-- [Saarwiesenring, CEB, Wiesenstr](saarwiesen.md)
+- [Saarwiesenring -- CEB -- Wiesenstr](saarwiesen.md)
