@@ -1,3 +1,3 @@
-# Radweg Merzig--Brotdorf
+# Radweg Merzig-Brotdorf
 
 foo bar
