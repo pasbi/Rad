@@ -16,6 +16,9 @@ Engstelle an der Abzweigung Rehstr. (Beim König Kebab).
 
 <p float="middle">
   <img alt="Eingang Hilbringen von Merzig" src="media/eingang-hilbringen.jpg" width="40%"/>
+  <img alt="Eingang Hilbringen von Merzig" src="media/20200914_181530.jpg" width="40%"/>
+<p/>
+<p float="middle">
   <img alt="Engstelle König Kebab" src="media/koenig-kebab.jpg" width="40%"/>
 </p>
 
