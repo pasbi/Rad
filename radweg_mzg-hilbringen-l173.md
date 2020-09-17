@@ -20,11 +20,16 @@ Engstelle an der Abzweigung Rehstr. (Beim König Kebab).
 </p>
 
 ## Verbesserungsvorschläge:
+
 1. Ausbau
   - konsequente Durchsetzung des Halteverbots
   - Radfahrerschutz an Einmündungen, z.B. durch zwei Stoppschilder wie in Luxemburg (siehe unten) oder durch Markierungen
-![Doppelte Stoppschilder Luxemburg](media/lux-radweg-2.jpg)
+
+      ![Doppelte Stoppschilder Luxemburg](media/lux-radweg-2.jpg)
+
 2. Ertüchtigung der Ausweichroute durch die Saarwiesen
 
 ## Alternativ-Routen
+
 - [Saarwiesenring -- CEB -- Wiesenstr](saarwiesen.md)
+
