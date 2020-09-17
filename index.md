@@ -9,6 +9,9 @@ Dieser Blog sammelt Verkehrssituationen in und um Merzig, die für Radfahrer gef
 - [Merzig Hbf](bahnhof.md)
 - [Einbahnstraßen](einbahnstrassen.md)
 - [B51 Ballern--Werner Freund Straße](b51-ballern-wfs.md)
+- [Stadthalle](Stadthalle-Saar.md)
+- [Torstraße/Fabrikstraße](abzweig-torstr-fabrikstr.md)
+- [Hela Kreuzung](Hela-Kreuzung)
 - [Problemstellen](problemstellen.md)
 
 

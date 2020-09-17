@@ -22,7 +22,7 @@ Engstelle an der Abzweigung Rehstr. (Beim König Kebab).
   <img alt="Engstelle König Kebab" src="media/koenig-kebab.jpg" width="40%"/>
 </p>
 
-## Verbesserungsvorschläge:
+## Verbesserungsvorschläge
 
 1. Ausbau
   - konsequente Durchsetzung des Halteverbots

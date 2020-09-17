@@ -19,6 +19,8 @@ Wichtig als Verbindung vom Hbf in die Innenstadt bzw. zurück.
 In der Kurve (`49°26'34.8"N 6°38'32.0"E`) befindet sich ein metallener Schachtdeckel, der bei Nässe sehr rutschig ist.
 Es besteht hohes Verletzungsrisiko für ortsunkundige oder unaufmerksame Radler und auch Roller- oder Motorradfahrer.
 
+![Schachtdeckel Propsteistraße](media/20200917_193944.jpg)
+
 ## Bahnübergange
 Die Stahlschienen sind bei Nässe glatt, dazu kommen noch die Spalten neben den Schienen.
 Zusammengenommen stellen die Bahnübergänge in der Bahnhofstraße (`49°26'08.9"N 6°38'04.6"E`) und in der Losheimer Straße (`49°26'42.2"N 6°38'58.6"E`) ein hohes Verletzungsrisiko dar.
