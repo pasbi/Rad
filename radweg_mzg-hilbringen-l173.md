@@ -7,10 +7,12 @@ Aktuell besteht von Hilbringen nach Merzig ein für Radfahrer freigegebener Fuß
 Die Einmündungen (In der Acht, An der Tuchbleiche, Zur alten Saar, Tankstelle Kremer) sind unübersichtlich,
 der Weg ist meist zugeparkt.
 
-![Einmündung In der Acht](media/hilbringen-in-der-acht-1.jpg)
-![Einmündung In der Acht](media/hilbringen-in-der-acht-2.jpg)
-![Zugeparkter Radweg 1](media/20200919_095756.jpg)
-![Zugeparkter Radweg 2](media/20200919_113037.jpg)
+<p float="middle">
+  <img alt="Einmündung In der Acht" src="media/hilbringen-in-der-acht-1.jpg" width="40%"/>
+  <img alt="Einmündung In der Acht" src="media/hilbringen-in-der-acht-2.jpg" width="40%"/>
+  <img alt="Zugeparkter Radweg 1" src="media/20200919_095756.jpg" width="40%"/>
+  <img alt="Zugeparkter Radweg 2" src="media/20200919_113037.jpg" width="40%"/>
+</p>
 
 ## Merzig nach Hilbringen
 Der Radweg endet abrupt wenige Meter nach dem Ortseingang Hilbringen.
