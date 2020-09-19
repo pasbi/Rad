@@ -9,6 +9,8 @@ der Weg ist meist zugeparkt.
 
 ![Einmündung In der Acht](media/hilbringen-in-der-acht-1.jpg)
 ![Einmündung In der Acht](media/hilbringen-in-der-acht-2.jpg)
+![Zugeparkter Radweg 1](media/20200919_095756.jpg)
+![Zugeparkter Radweg 2](media/20200919_113037.jpg)
 
 ## Merzig nach Hilbringen
 Der Radweg endet abrupt wenige Meter nach dem Ortseingang Hilbringen.

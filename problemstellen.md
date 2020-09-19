@@ -34,3 +34,19 @@ Wegen der oft zu hohen Geschwindigkeit der von der L174 abbiegender Fahrzeuge is
 <p float="middle">
 <img alt="Ende Radweg Schlachthof" src="media/mzg-schlachthof.jpg" width="40%"/>
 </p>
+
+## Temporär aufgehobene Radwege
+
+Der Radfahrer (oft auch der Fußgänger) hat im Umleitungsfall ist meistens sehr schlechte Karten.
+Eine Führung durch die Baustelle ist meist nicht vorhanden, sodass der Radfahrer entweder im zu engen Bereich für Fußgänger fahren (eigentlich schieben) muss, oder auf die (meist verengte) Fahebahn wechseln muss.
+In beiden Fällen kommt es häufig zu Konflikten.
+
+Während des Umbaus des Hela-Kreisels zur Ampelkreuzung sollten z. B. die viel zu engen und mit Gittern begrenzten Fußgänger von Radfahrern mitbenutzt werden.
+Viel bequemer und einfacher hätte man eine Rad-Umleitung über den Stadthallenparkplatz auf die Hilbringer Brücke mit sehr kleinem baulichen Aufwand einrichten können.
+
+Weniger als eine Woche nach Freigabe der neuen Ampelkreuzung und der kombinierten umliegenden Rad-/Fußwege sind diese schon wieder wegen des Oktoberfestes gesperrt.
+
+<p float="middle">
+  <img alt="Sperrung Radweg Stadthalle" src="media/20200919_094556.jpg" width="40%"/>
+<p/>
+
