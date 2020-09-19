@@ -3,21 +3,21 @@
 Generell sind Einbahnstraßen für Radfahrer im Gegenverkehr freizugeben, wenn nicht besondere Gründe dagegen sprechen.
 
 ## Kernstadt
-- Seminarstraße
+- Seminarstraße (50)
 - Josefstraße
-- Synagogenstraße
-- Neustraße
+- Synagogenstraße (50)
+- Neustraße (grösstenteils 30)
 - Rieffstraße
-- Schwarzenbergstraße
-- Wagnerstraße
-- Pferdegasse
-- Beethovenstraße
-- Fischerstraße
+- Schwarzenbergstraße (in diesem Abschnitt 50)
+- Wagnerstraße (Verkehrsberuhigt)
+- Pferdegasse (Verkehrsberuhigter Bereich)
+- Beethovenstraße (50)
+- Fischerstraße (Verkehrsberuhigt)
 - Schankstraße
-- Probsteistraße
-- Zum Wiesenhof
-- Am Werthchen
-- Am Seffersbach
+- Probsteistraße (in diesem Abschnitt verkehrsberuhigt)
+- Zum Wiesenhof (Zone 30)
+- Am Werthchen (Verkehrsberuhigter Bereich)
+- Am Seffersbach (Verkehrsberuhigter Bereich)
 - Brücke zwischen am Werthchen und am Seffersbach
 
 | ![Seminarstraße](media/seminarstr.jpg) |
