@@ -11,6 +11,6 @@
 - Keine Grüne Welle für Radfahrer und Fußgänger. Zum Beispiel die Querung der Autobahnabfahrt aus Richtung Luxemburg bzw. Auffahrt in Richtung Saarbrücken (gegenüber Tankstelle Kremer): hier müssen drei Fahrbahnen überquert und mindestens zwei Rotphasen abgewartet werden. Der Radfahrer wird auf die Straße genötigt, dort hat man Grüne Welle und kommt deutlich schneller voran.
 
 <p float="middle">
-  <img alt="Ampelpfosten" src="media/20200919_095052.jpg" width=40%>
-  <img alt="Radweg-Ende-Lothringerstr" src="media/20200917_193635.jpg" width=40%>
+  <img alt="Ampelpfosten" src="media/20200919_095052.jpg" width="40%"/>
+  <img alt="Radweg-Ende-Lothringerstr" src="media/20200917_193635.jpg" width="40%"/>
 </p>
