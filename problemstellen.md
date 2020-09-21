@@ -7,20 +7,20 @@
 
 <a href="media/mzg-fabrikstr.jpg"><img alt="Kreuzbergstraße Oberfläche" src="media/thumb-mzg-fabrikstr.jpg"/></a>
 
-Wichtig als Verlängerung des [Rotensteiner Wegs|radweg_mzg-bd-rotenstein.md) in die Innenstadt
+Wichtig als Verlängerung des [Rotensteiner Wegs](radweg_mzg-bd-rotenstein.md) in die Innenstadt
 
 ## Bahnhofstraße/Schankstraße
 Viele Schlaglöcher auf Höhe Hotel Restaurant Römer, diese Stelle ist auch schlecht beleuchtet.
 Wichtig als Verbindung vom Hbf in die Innenstadt bzw. zurück.
 [Bereits ausgebessert?]
 
-[[Bohrlöcher Schankstraße|media/mzg-schankstr.jpg)
+[[Bohrlöcher Schankstraße|media/mzg-schankstr.jpg]]
 
 ## Propsteistraße
 In der Kurve (`49°26'34.8"N 6°38'32.0"E`) befindet sich ein metallener Schachtdeckel, der bei Nässe sehr rutschig ist.
 Es besteht hohes Verletzungsrisiko für ortsunkundige oder unaufmerksame Radler und auch Roller- oder Motorradfahrer.
 
-[[Schachtdeckel Propsteistraße|media/20200917_193944.jpg)
+[[Schachtdeckel Propsteistraße|media/20200917_193944.jpg]]
 
 ## Bahnübergange
 Die Stahlschienen sind bei Nässe glatt, dazu kommen noch die Spalten neben den Schienen.

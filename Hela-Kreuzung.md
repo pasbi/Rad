@@ -1,5 +1,6 @@
 # Hela-Kreuzung bis Ortseingang Hilbringen
-![Karte Hela-Kreuzung](media/thumb-map-Hela-Kreuzung.png)
+
+![Karte Hela-Kreuzung](media/map-Hela-Kreuzung.png)
 
 - bis Sommer 2020 als Kreisel
 - seit 14.9.2020 Ampelkreuzung

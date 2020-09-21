@@ -32,7 +32,7 @@ Engstelle an der Abzweigung Rehstr. (Beim König Kebab).
   - konsequente Durchsetzung des Halteverbots
   - Radfahrerschutz an Einmündungen, z.B. durch zwei Stoppschilder wie in Luxemburg (siehe unten) oder durch Markierungen
 
-      <a href="media/lux-radweg-2.jpg"><img alt="Doppelte Stoppschilder Luxemburg" src="media/thumb-lux-radweg-2.jpg"/></a>
+<p><a href="media/lux-radweg-2.jpg"><img alt="Doppelte Stoppschilder Luxemburg" src="media/thumb-lux-radweg-2.jpg"/></a></p>
 
 2. Ertüchtigung der Ausweichroute durch die Saarwiesen
 

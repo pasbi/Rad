@@ -12,7 +12,7 @@ Generell sind Einbahnstraßen für Radfahrer im Gegenverkehr freizugeben, wenn n
   </thead>
   <tbody>
     <tr>
-      <td colspan=3>Kernstadt</td>
+      <th colspan=3>Kernstadt</th>
     </tr><tr>
       <td>Seminarstraße</td>
       <td><img alt="50" src="signs/274.50.png" height="25"/></td>
@@ -78,7 +78,7 @@ Generell sind Einbahnstraßen für Radfahrer im Gegenverkehr freizugeben, wenn n
       <td></td>
       <td></td>
     </tr><tr>
-      <td colspan=3>Brotdorf</td>
+      <th colspan=3>Brotdorf</th>
     </tr><tr>
       <td>Schafbrücke (Klinkerstraße zur Provinzialstraße)</td>
       <td></td>
