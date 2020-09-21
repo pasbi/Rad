@@ -20,5 +20,5 @@ Der Zustand des Fahrbahnbelags im Ampelbereich ist unzumutbar.
 - Sensitivierung der Induktionsschleife oder Anforderungsknopf
 - konsistente Beschilderung
 
-![Merzig Hbf Ausfahrt Busbahnhof](media/mzg-ampel-hbf-2.jpg)
+<a href="media/mzg-ampel-hbf-2.jpg"><img alt="Merzig Hbf Ausfahrt Busbahnhof" src="media/thumb-mzg-ampel-hbf-2.jpg"/></a>
 
