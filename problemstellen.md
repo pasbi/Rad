@@ -5,21 +5,22 @@
 - teilweise Pflastersteine
 - teilweise schlechter Zustand
 
-![Kreuzbergstraße Oberfläche](media/mzg-fabrikstr.jpg)
-Wichtig als Verlängerung des [Rotensteiner Wegs](radweg_mzg-bd-rotenstein.md) in die Innenstadt
+<a href="media/mzg-fabrikstr.jpg"><img alt="Kreuzbergstraße Oberfläche" src="media/thumb-mzg-fabrikstr.jpg"/></a>
+
+Wichtig als Verlängerung des [Rotensteiner Wegs|radweg_mzg-bd-rotenstein.md) in die Innenstadt
 
 ## Bahnhofstraße/Schankstraße
 Viele Schlaglöcher auf Höhe Hotel Restaurant Römer, diese Stelle ist auch schlecht beleuchtet.
 Wichtig als Verbindung vom Hbf in die Innenstadt bzw. zurück.
 [Bereits ausgebessert?]
 
-![Bohrlöcher Schankstraße](media/mzg-schankstr.jpg)
+[[Bohrlöcher Schankstraße|media/mzg-schankstr.jpg)
 
 ## Propsteistraße
 In der Kurve (`49°26'34.8"N 6°38'32.0"E`) befindet sich ein metallener Schachtdeckel, der bei Nässe sehr rutschig ist.
 Es besteht hohes Verletzungsrisiko für ortsunkundige oder unaufmerksame Radler und auch Roller- oder Motorradfahrer.
 
-![Schachtdeckel Propsteistraße](media/20200917_193944.jpg)
+[[Schachtdeckel Propsteistraße|media/20200917_193944.jpg)
 
 ## Bahnübergange
 Die Stahlschienen sind bei Nässe glatt, dazu kommen noch die Spalten neben den Schienen.
@@ -31,9 +32,7 @@ Vom Leinpfad (Saar-Radweg) unter der L174 hindurch, endet der Radweg abrupt an d
 Als Radfahrer Richtung Gymnasium am Stefansberg ist man gezwungen auf die Fahrbahn zu wechseln (`49°27'01.5"N 6°37'57.2"E`).
 Wegen der oft zu hohen Geschwindigkeit der von der L174 abbiegender Fahrzeuge ist das recht gefährlich.
 
-<p float="middle">
-<img alt="Ende Radweg Schlachthof" src="media/mzg-schlachthof.jpg" width="40%"/>
-</p>
+<a href="media/mzg-schlachthof.jpg"><img alt="Ende Radweg Schlachthof" src="media/thumb-mzg-schlachthof.jpg"/></a>
 
 ## Temporär aufgehobene Radwege
 
@@ -46,7 +45,5 @@ Viel bequemer und einfacher hätte man eine Rad-Umleitung über den Stadthallenp
 
 Weniger als eine Woche nach Freigabe der neuen Ampelkreuzung und der kombinierten umliegenden Rad-/Fußwege sind diese schon wieder wegen des Oktoberfestes gesperrt.
 
-<p float="middle">
-  <img alt="Sperrung Radweg Stadthalle" src="media/20200919_094556.jpg" width="40%"/>
-<p/>
+<a href="media/20200919_094556.jpg"><img alt="Sperrung Radweg Stadthalle" src="media/thumb-20200919_094556.jpg"/></a>
 
