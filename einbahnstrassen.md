@@ -15,7 +15,7 @@ Generell sind Einbahnstraßen für Radfahrer im Gegenverkehr freizugeben, wenn n
 | Wagnerstraße        | <img alt="verkehrsberuhigt" src="signs/325.1.png" height="1ex"/> | |
 | Pferdegasse         | <img alt="verkehrsberuhigt" src="signs/325.1.png" height="1ex"/> | |
 | Beethovenstraße     | <img alt="50" src="signs/274.50.png" height="1ex"/> | |
-| Fischerstraße       | <img alt="50" src="signs/274.50.png" height="1ex"/> | |
+| Fischerstraße       | | |
 | Schankstraße        | | |
 | Probsteistraße      | in diesem Abschnitt <img alt="50" src="signs/274.50.png" height="1ex"/> | |
 | Zum Wiesenhof       | <img alt="z30" src="signs/274.1.png" height="1ex"/> | |
