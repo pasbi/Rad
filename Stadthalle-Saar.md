@@ -9,10 +9,10 @@ Ich finde es auch seltsam, dass der Bordstein kurz hinter dieser Absenkung, an d
 Wer kam auf die Idee, Kopfsteinpflaster für einen neuen Rad-/Fußweg zu benutzen?
 
 <p float="middle">
-  [[Kurve ohne abgesenkter Bordstein|media/20200919_094622.jpg]]
-  [[abgesenkter Bordstein vor der Stadthalle|media/20200917_193247.jpg]]
-  [[Nicht-abgesenkter Bordstein|media/20200919_094722.jpg]]
-  [[Neuer Radweg Kopfsteinpflaster|media/20200919_095009.jpg]]
+  <a href="media/20200919_094622.jpg"><img alt="Kurve ohne abgesenkter Bordstein" src="media/thumb-20200919_094622.jpg"/></a>
+  <a href="media/20200917_193247.jpg"><img alt="abgesenkter Bordstein vor der Stadthalle" src="media/thumb-20200917_193247.jpg"/></a>
+  <a href="media/20200919_094722.jpg"><img alt="Nicht-abgesenkter Bordstein" src="media/thumb-20200919_094722.jpg"/></a>
+  <a href="media/20200919_095009.jpg"><img alt="Neuer Radweg Kopfsteinpflaster" src="media/thumb-20200919_095009.jpg"/></a>
 </p>
 
 Folgende Szenarien sind also denkbar, jeweils aus der Stadt (Brauerstraße) kommend:

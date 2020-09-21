@@ -14,13 +14,13 @@ Viele Schlaglöcher auf Höhe Hotel Restaurant Römer, diese Stelle ist auch sch
 Wichtig als Verbindung vom Hbf in die Innenstadt bzw. zurück.
 [Bereits ausgebessert?]
 
-[[Bohrlöcher Schankstraße|media/mzg-schankstr.jpg]]
+<a href="media/mzg-schankstr.jpg"><img alt="Bohrlöcher Schankstraße" src="media/thumb-mzg-schankstr.jpg"/></a>
 
 ## Propsteistraße
 In der Kurve (`49°26'34.8"N 6°38'32.0"E`) befindet sich ein metallener Schachtdeckel, der bei Nässe sehr rutschig ist.
 Es besteht hohes Verletzungsrisiko für ortsunkundige oder unaufmerksame Radler und auch Roller- oder Motorradfahrer.
 
-[[Schachtdeckel Propsteistraße|media/20200917_193944.jpg]]
+<a href="media/20200917_193944.jpg"><img alt="Schachtdeckel Propsteistraße" src="media/thumb-20200917_193944.jpg"/></a>
 
 ## Bahnübergange
 Die Stahlschienen sind bei Nässe glatt, dazu kommen noch die Spalten neben den Schienen.
