@@ -6,21 +6,21 @@ Generell sind Einbahnstraßen für Radfahrer im Gegenverkehr freizugeben, wenn n
 
 | Straße | Tempolimit | Kommentar |
 |---|:---:|---|
-| Seminarstraße       | <img alt="50" src="signs/274.50.png" height="20"/> |  |
+| Seminarstraße       | <img alt="50" src="signs/274.50.png" height="1ex"/> |  |
 | Josefstraße         | | |
-| Synagogenstraße     |  <img alt="50" src="signs/274.50.png" height="20"/> |  |
-| Neustraße           | größtenteils <img alt="30" src="signs/274.30.png" height="20"/> | |
+| Synagogenstraße     |  <img alt="50" src="signs/274.50.png" height="1ex"/> |  |
+| Neustraße           | größtenteils <img alt="30" src="signs/274.30.png" height="1ex"/> | |
 | Rieffstraße         | |  |
-| Schwarzenbergstraße | in diesem Abschnitt <img alt="50" src="signs/274.50.png" height="20"/> | |
-| Wagnerstraße        | <img alt="verkehrsberuhigt" src="signs/325.1.png" height="20"/> | |
-| Pferdegasse         | <img alt="verkehrsberuhigt" src="signs/325.1.png" height="20"/> | |
-| Beethovenstraße     | <img alt="50" src="signs/274.50.png" height="20"/> | |
-| Fischerstraße       | <img alt="50" src="signs/274.50.png" height="20"/> | |
+| Schwarzenbergstraße | in diesem Abschnitt <img alt="50" src="signs/274.50.png" height="1ex"/> | |
+| Wagnerstraße        | <img alt="verkehrsberuhigt" src="signs/325.1.png" height="1ex"/> | |
+| Pferdegasse         | <img alt="verkehrsberuhigt" src="signs/325.1.png" height="1ex"/> | |
+| Beethovenstraße     | <img alt="50" src="signs/274.50.png" height="1ex"/> | |
+| Fischerstraße       | <img alt="50" src="signs/274.50.png" height="1ex"/> | |
 | Schankstraße        | | |
-| Probsteistraße      | in diesem Abschnitt <img alt="50" src="signs/274.50.png" height="20"/> | |
-| Zum Wiesenhof       | <img alt="z30" src="signs/274.1.png" height="20"/> | |
-| Am Werthchen        | <img alt="verkehrsberuhigt" src="signs/325.1.png" height="20"/> | |
-| Am Seffersbach      | <img alt="verkehrsberuhigt" src="signs/325.1.png" height="20"/> | |
+| Probsteistraße      | in diesem Abschnitt <img alt="50" src="signs/274.50.png" height="1ex"/> | |
+| Zum Wiesenhof       | <img alt="z30" src="signs/274.1.png" height="1ex"/> | |
+| Am Werthchen        | <img alt="verkehrsberuhigt" src="signs/325.1.png" height="1ex"/> | |
+| Am Seffersbach      | <img alt="verkehrsberuhigt" src="signs/325.1.png" height="1ex"/> | |
 | Brücke zwischen am Werthchen und am Seffersbach | | |
 
 | ![Seminarstraße](media/seminarstr.jpg) |
