@@ -12,6 +12,10 @@ Als Alternativroute zur [L173](radweg-mzg-hilbringen-l173.md) zwischen Merzig un
 - keine Beleuchtung zwischen Autobahnunterführung und CEB
 - Fahrbahndecke in miserablem Zustand
 - zu eng bei gleichzeitiger Nutzung durch den Autoverkehr
+- Kein Radweg
+
+[[Radweg-Ende|media/radweg-ende-saarwiesen.jpg]]
+
 
 ## Verbesserungsvorschläge:
 - Beleuchtung (z.B. mit Bewegungsmelder?)

@@ -17,15 +17,32 @@ Wichtig als Verbindung vom Hbf in die Innenstadt bzw. zurück.
 <a href="media/mzg-schankstr.jpg"><img alt="Bohrlöcher Schankstraße" src="media/thumb-mzg-schankstr.jpg"/></a>
 
 ## Propsteistraße
-In der Kurve (`49°26'34.8"N 6°38'32.0"E`) befindet sich ein metallener Schachtdeckel, der bei Nässe sehr rutschig ist.
-Es besteht hohes Verletzungsrisiko für ortsunkundige oder unaufmerksame Radler und auch Roller- oder Motorradfahrer.
+In der Kurve Richtung Brotdorf (`49°26'34.8"N 6°38'32.0"E`) befindet sich ein metallener Schachtdeckel, der bei Nässe sehr rutschig ist.
+Es besteht hohes Verletzungsrisiko für ortsunkundige oder unaufmerksame Radler und auch Roller- oder Motorradfahrer, da sich der Deckel
+am rechten Fahrbahnrand befindet.
+An der gegenüberliegenden Kurve Richtung Innenstadt befindet sich auch ein Schachtdeckel, der aber, da er in der Mitte der Fahrbahn liegt, weit weniger gefährlich ist.
 
 <a href="media/20200917_193944.jpg"><img alt="Schachtdeckel Propsteistraße" src="media/thumb-20200917_193944.jpg"/></a>
+[[Schachtdeckel Detail|media/20200917_193956.jpg]]
+[[Schachtdeckel Richting Innenstadt|media/20200919_184712.jpg]]
 
 ## Bahnübergange
 Die Stahlschienen sind bei Nässe glatt, dazu kommen noch die Spalten neben den Schienen.
 Zusammengenommen stellen die Bahnübergänge in der Bahnhofstraße (`49°26'08.9"N 6°38'04.6"E`) und in der Losheimer Straße (`49°26'42.2"N 6°38'58.6"E`) ein hohes Verletzungsrisiko dar.
 Wenn man den Bahnübergang als Radfahrer in einem sicheren, steileren Winkel überqueren möchte, muss man zwangsläufig in die Mitte der Fahrbahn ausscheren.
+
+[[Bahnübergang Saarbrücker Allee|media/20200918_180922.jpg]]
+
+## Blättelbornweg
+
+Teilweise extrem schlechter Zustand durch Pflanzenwurzeln
+Unzureichende Trennung zwischen Fußgänger und Radfahrer-Bereich, dadurch kommt es vor allem bei schönem Wetter am Wochenende zu unnötigen Konflikten.
+Zum Stadtpark hin ist der Weg in sehr schlechtem Zustand und war bis in den Sommer 2020 komplett zugewachsen (im Herbst freigeschnitten).
+
+[[Start Blättelbornweg|media/20200919_182539.jpg]]
+[[Wurzeln|media/20200919_182617.jpg]]
+[[Weg-Stadtpark|media/20200919_182714.jpg]]
+
 
 ## Schlachthof
 Vom Leinpfad (Saar-Radweg) unter der L174 hindurch, endet der Radweg abrupt an der Straße Zum Schlachtof.

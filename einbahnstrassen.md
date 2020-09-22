@@ -33,7 +33,9 @@ Generell sind Einbahnstraßen für Radfahrer im Gegenverkehr freizugeben, wenn n
     </tr><tr>
       <td>Neustraße</td>
       <td>größtenteils <img alt="30" src="signs/274.30.png" height="25"/></td>
-      <td></td>
+      <td>
+        <a href="media/20200919_190127.jpg"><img alt="Neustraße Ende" src="media/thumb-20200919_190127.jpg"/></a>
+      </td>
     </tr><tr>
       <td>Rieffstraße</td>
       <td></td>
@@ -54,7 +56,6 @@ Generell sind Einbahnstraßen für Radfahrer im Gegenverkehr freizugeben, wenn n
       <td>
         <a href="media/20200919_183742.jpg"><img alt="Neustraße/Pferdegasse" src="media/thumb-20200919_183742.jpg"/></a>
         <a href="media/20200919_183919.jpg"><img alt="Pferdegasse" src="media/thumb-20200919_183919.jpg"/></a>
-        <a href="media/20200919_190127.jpg"><img alt="Neustraße Ende" src="media/thumb-20200919_190127.jpg"/></a>
       </td>
     </tr><tr>
       <td>Beethovenstraße</td>
