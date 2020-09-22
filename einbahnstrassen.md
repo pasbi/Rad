@@ -81,12 +81,12 @@ Generell sind Einbahnstraßen für Radfahrer im Gegenverkehr freizugeben, wenn n
       <td>Am Werthchen</td>
       <td><img alt="verkehrsberuhigt" src="signs/325.1.png" height="25"/></td>
       <td>
-        <a href="media/20200919_180317.jpg"><img alt="Am Werthchen Brücke Altstadt 1" src="media/thumb-20200919_180317.jpg"/></a>
-        <a href="media/20200919_180342.jpg"><img alt="Am Werthchen Brücke Altstadt 2" src="media/thumb-20200919_180342.jpg"/></a>
-        <a href="media/183208.jpg"><img alt="Am Werthchen/Wagnerstraße 1" src="media/thumb-183208.jpg"/></a>
-        <a href="media/183254.jpg"><img alt="Am Werthchen/Wagnerstraße 2" src="media/thumb-183254.jpg"/></a>
-        <a href="media/183633.jpg"><img alt="Am Werthchen/Wagnerstraße 3" src="media/thumb-183633.jpg"/></a>
-        <a href="media/183402.jpg"><img alt="Am Werthchen Ende" src="media/thumb-183402.jpg"/></a>
+        <a href="media/20200919_183017.jpg"><img alt="Am Werthchen Brücke Altstadt 1" src="media/thumb-20200919_183017.jpg"/></a>
+        <a href="media/20200919_183042.jpg"><img alt="Am Werthchen Brücke Altstadt 2" src="media/thumb-20200919_183042.jpg"/></a>
+        <a href="media/20200919_183208.jpg"><img alt="Am Werthchen/Wagnerstraße 1" src="media/thumb-20200919_183208.jpg"/></a>
+        <a href="media/20200919_183254.jpg"><img alt="Am Werthchen/Wagnerstraße 2" src="media/thumb-20200919_183254.jpg"/></a>
+        <a href="media/20200919_183633.jpg"><img alt="Am Werthchen/Wagnerstraße 3" src="media/thumb-20200919_183633.jpg"/></a>
+        <a href="media/20200919_183402.jpg"><img alt="Am Werthchen Ende" src="media/thumb-20200919_183402.jpg"/></a>
       </td>
     </tr><tr>
       <td>Am Seffersbach</td>
