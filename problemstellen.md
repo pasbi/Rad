@@ -23,15 +23,15 @@ am rechten Fahrbahnrand befindet.
 An der gegenüberliegenden Kurve Richtung Innenstadt befindet sich auch ein Schachtdeckel, der aber, da er in der Mitte der Fahrbahn liegt, weit weniger gefährlich ist.
 
 <a href="media/20200917_193944.jpg"><img alt="Schachtdeckel Propsteistraße" src="media/thumb-20200917_193944.jpg"/></a>
-[[Schachtdeckel Detail|media/20200917_193956.jpg]]
-[[Schachtdeckel Richting Innenstadt|media/20200919_184712.jpg]]
+<a href="media/20200917_193956.jpg"><img alt="Schachtdeckel Detail" src="media/thumb-20200917_193956.jpg"/></a>
+<a href="media/20200919_184712.jpg"><img alt="Schachtdeckel Richting Innenstadt" src="media/thumb-20200919_184712.jpg"/></a>
 
 ## Bahnübergange
 Die Stahlschienen sind bei Nässe glatt, dazu kommen noch die Spalten neben den Schienen.
 Zusammengenommen stellen die Bahnübergänge in der Bahnhofstraße (`49°26'08.9"N 6°38'04.6"E`) und in der Losheimer Straße (`49°26'42.2"N 6°38'58.6"E`) ein hohes Verletzungsrisiko dar.
 Wenn man den Bahnübergang als Radfahrer in einem sicheren, steileren Winkel überqueren möchte, muss man zwangsläufig in die Mitte der Fahrbahn ausscheren.
 
-[[Bahnübergang Saarbrücker Allee|media/20200918_180922.jpg]]
+<a href="media/20200918_180922.jpg"><img alt="Bahnübergang Saarbrücker Allee" src="media/thumb-20200918_180922.jpg"/></a>
 
 ## Blättelbornweg
 
@@ -39,9 +39,9 @@ Teilweise extrem schlechter Zustand durch Pflanzenwurzeln
 Unzureichende Trennung zwischen Fußgänger und Radfahrer-Bereich, dadurch kommt es vor allem bei schönem Wetter am Wochenende zu unnötigen Konflikten.
 Zum Stadtpark hin ist der Weg in sehr schlechtem Zustand und war bis in den Sommer 2020 komplett zugewachsen (im Herbst freigeschnitten).
 
-[[Start Blättelbornweg|media/20200919_182539.jpg]]
-[[Wurzeln|media/20200919_182617.jpg]]
-[[Weg-Stadtpark|media/20200919_182714.jpg]]
+<a href="media/20200919_182539.jpg"><img alt="Start Blättelbornweg" src="media/thumb-20200919_182539.jpg"/></a>
+<a href="media/20200919_182617.jpg"><img alt="Wurzeln" src="media/thumb-20200919_182617.jpg"/></a>
+<a href="media/20200919_182714.jpg"><img alt="Weg-Stadtpark" src="media/thumb-20200919_182714.jpg"/></a>
 
 
 ## Schlachthof

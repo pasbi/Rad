@@ -14,7 +14,7 @@ Als Alternativroute zur [L173](radweg-mzg-hilbringen-l173.md) zwischen Merzig un
 - zu eng bei gleichzeitiger Nutzung durch den Autoverkehr
 - Kein Radweg
 
-[[Radweg-Ende|media/radweg-ende-saarwiesen.jpg]]
+<a href="media/radweg-ende-saarwiesen.jpg"><img alt="Radweg-Ende" src="media/thumb-radweg-ende-saarwiesen.jpg"/></a>
 
 
 ## Verbesserungsvorschläge:

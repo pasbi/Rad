@@ -21,6 +21,6 @@ Der Zustand des Fahrbahnbelags im Ampelbereich ist unzumutbar.
 - konsistente Beschilderung
 
 <a href="media/mzg-ampel-hbf-2.jpg"><img alt="Merzig Hbf Ausfahrt Busbahnhof" src="media/thumb-mzg-ampel-hbf-2.jpg"/></a>
-[[Durchgang Bahnhof|media/20200918_081729.jpg]]
-[[Panorama Busbahnhof|media/20200918_180742.jpg]]
+<a href="media/20200918_081729.jpg"><img alt="Durchgang Bahnhof" src="media/thumb-20200918_081729.jpg"/></a>
+<a href="media/20200918_180742.jpg"><img alt="Panorama Busbahnhof" src="media/thumb-20200918_180742.jpg"/></a>
 
