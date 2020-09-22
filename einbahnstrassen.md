@@ -16,7 +16,10 @@ Generell sind Einbahnstraßen für Radfahrer im Gegenverkehr freizugeben, wenn n
     </tr><tr>
       <td>Seminarstraße</td>
       <td><img alt="50" src="signs/274.50.png" height="25"/></td>
-      <td><a href="media/seminarstr.jpg"><img alt="Seminarstraße" src="media/thumb-seminarstr.jpg"/></a></td>
+      <td>
+        <a href="media/seminarstr.jpg"><img alt="Seminarstraße" src="media/thumb-seminarstr.jpg"/></a>
+        <a href="media/20200919_181616.jpg"><img alt="Seminarstraße" src="media/thumb-20200919_181616.jpg"/></a>
+      </td>
     </tr><tr>
       <td>Josefstraße</td>
       <td></td>
@@ -56,7 +59,9 @@ Generell sind Einbahnstraßen für Radfahrer im Gegenverkehr freizugeben, wenn n
     </tr><tr>
       <td>Beethovenstraße</td>
       <td><img alt="50" src="signs/274.50.png" height="25"/></td>
-      <td></td>
+      <td>
+        <a href="media/20200919_181113.jpg"><img alt="Beethovenstraße" src="media/thumb-20200919_181113.jpg"/></a>
+      </td>
     </tr><tr>
       <td>Fischerstraße</td>
       <td></td>
@@ -76,6 +81,7 @@ Generell sind Einbahnstraßen für Radfahrer im Gegenverkehr freizugeben, wenn n
       <td><img alt="z30" src="signs/274.1.png" height="25"/></td>
       <td>
         <a href="media/20200919_181804.jpg"><img alt="Wiesenhof Inkonsistenz" src="media/thumb-20200919_181804.jpg"/></a>
+        <a href="media/20200919_181535.jpg"><img alt="Wiesenhof Ende" src="media/thumb-20200919_181535.jpg"/></a>
       </td>
     </tr><tr>
       <td>Am Werthchen</td>
