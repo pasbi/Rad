@@ -1,6 +1,8 @@
 # Einbahnstraßen
 
 Generell sind Einbahnstraßen für Radfahrer im Gegenverkehr freizugeben, wenn nicht besondere Gründe dagegen sprechen.
+Die *Arbeitsgemeinschaft Fahrrad- und Fußgängerfreundlicher Kommunen in Baden-Würtemberg e. V.* (AGKF-BW) hat [dazu ein Faltblatt veröffentlicht](https://www.agfk-bw.de/fileadmin/user_upload/Projekte/Faktenblaetter/AGFK_BW_Faktenblatt_Einbahnstrassen.pdf).
+[Eine Studie aus dem Jahr 2016 bzw. 2001](https://udv.de/de/file/9673/download?token=UtmWZLB1) der *Unfallforschung der Versicherer* hat einen positiven Effekt auf die Verkehrssicherheit festgestellt.
 
 ## Kernstadt
 
@@ -47,8 +49,7 @@ In diesem Abschnitt <img alt="50" src="signs/274.50.png" height="25"/>.
 <a href="media/20200919_183524.jpg"><img alt="Am Seffersbach" src="media/thumb-20200919_183524.jpg"/></a>
 
 Dieser Bereich ist bereits teilweise freigegeben, allerdings ist die Beschilderung inkonsistent.
-Z. B. fehlt an vielen Hinweisschildern das Zusatzzeichen 1022-10.
-
+Z. B. fehlt an vielen Hinweisschildern das Zusatzzeichen [1000-32](signs/1000-32.png | height="25") bzw. [1022-10](signs/1022-10.png | height="25").
 
 ### Beethovenstraße
 <img alt="50" src="signs/274.50.png" height="25"/>
@@ -67,6 +68,7 @@ In diesem Abschnitt <img alt="50" src="signs/274.50.png" height="25"/>.
 
 <a href="media/20200919_181804.jpg"><img alt="Wiesenhof Inkonsistenz" src="media/thumb-20200919_181804.jpg"/></a>
 <a href="media/20200919_181535.jpg"><img alt="Wiesenhof Ende" src="media/thumb-20200919_181535.jpg"/></a>
+
 Der Bereich ist bereits teilweise freigegeben, allerdings ist die Beschilderung inkonsistent.
 
 ## Brotdorf
@@ -80,5 +82,4 @@ Brücke aus der *Klinkerstraße* zur *L157*.
 Im Abschnitt ab *Hausbacher Straße* bis *Pfeifferstraße*
 
 Der Bereich um den Seffersbach in der Kernstadt (Am Werthchen, Am Viehmarkt, Trierer Straße) ist schon teilweise freigegeben.
-Allerdings ist dort die Beschilderung inkonsistent, z. B. fehlt an vielen Hinweisschildern das Zusatzzeichen *1000-30* bzw. *1022-10*.
 
