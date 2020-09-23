@@ -80,5 +80,3 @@ Brücke aus der *Klinkerstraße* zur *L157*.
 ### Mettlacherstraße
 Im Abschnitt ab *Hausbacher Straße* bis *Pfeifferstraße*
 
-Der Bereich um den Seffersbach in der Kernstadt (Am Werthchen, Am Viehmarkt, Trierer Straße) ist schon teilweise freigegeben.
-
