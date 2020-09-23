@@ -46,6 +46,9 @@ In diesem Abschnitt <img alt="50" src="signs/274.50.png" height="25"/>.
 <a href="media/20200919_183402.jpg"><img alt="Am Werthchen Ende" src="media/thumb-20200919_183402.jpg"/></a>
 <a href="media/20200919_183524.jpg"><img alt="Am Seffersbach" src="media/thumb-20200919_183524.jpg"/></a>
 
+Dieser Bereich ist bereits teilweise freigegeben, allerdings ist die Beschilderung inkonsistent.
+Z. B. fehlt an vielen Hinweisschildern das Zusatzzeichen 1022-10.
+
 
 ### Beethovenstraße
 <img alt="50" src="signs/274.50.png" height="25"/>
@@ -64,6 +67,7 @@ In diesem Abschnitt <img alt="50" src="signs/274.50.png" height="25"/>.
 
 <a href="media/20200919_181804.jpg"><img alt="Wiesenhof Inkonsistenz" src="media/thumb-20200919_181804.jpg"/></a>
 <a href="media/20200919_181535.jpg"><img alt="Wiesenhof Ende" src="media/thumb-20200919_181535.jpg"/></a>
+Der Bereich ist bereits teilweise freigegeben, allerdings ist die Beschilderung inkonsistent.
 
 ## Brotdorf
 
