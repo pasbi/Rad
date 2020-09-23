@@ -116,9 +116,5 @@ Generell sind Einbahnstraßen für Radfahrer im Gegenverkehr freizugeben, wenn n
 </table>
 
 Der Bereich um den Seffersbach in der Kernstadt (Am Werthchen, Am Viehmarkt, Trierer Straße) ist schon teilweise freigegeben.
-Allerdings ist dort die Beschilderung inkonsistent, z. B. fehlt an vielen Hinweisschildern das Zusatzzeichen 1022-10.
-
-
-
-
+Allerdings ist dort die Beschilderung inkonsistent, z. B. fehlt an vielen Hinweisschildern das Zusatzzeichen *1000-30* bzw. *1022-10*.
 
