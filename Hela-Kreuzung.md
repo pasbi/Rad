@@ -49,6 +49,4 @@ Das gleiche Problem besteht auch in Gegenrichtung (Richtung Merzig).
 <a href="media/20201003_124909.jpg"><img alt="Kauflandkreuzung" src="media/thumb-20201003_124909.jpg"/></a>
 <a href="media/20201003_124940.jpg"><img alt="Kauflandkreuzung" src="media/thumb-20201003_124940.jpg"/></a>
 <a href="media/20201003_124948.jpg"><img alt="Kauflandkreuzung" src="media/thumb-20201003_124948.jpg"/></a>
-<a href="media/20201003_124948.jpg"><img alt="Kauflandkreuzung" src="media/thumb-20201003_124948.jpg"/></a>
-
 
