@@ -14,6 +14,8 @@ Die *Arbeitsgemeinschaft Fahrrad- und Fußgängerfreundlicher Kommunen in Baden-
 <a href="media/20200919_181616.jpg"><img alt="Seminarstraße" src="media/thumb-20200919_181616.jpg"/></a>
 
 ### Josefstraße
+<img alt="50" src="signs/274.50.png" height="25"/>
+<a href="media/20201003_123904.jpg"><img alt="Synagogenstraße" src="media/thumb-20201003_123904.jpg"/></a>
 
 ### Synagogenstraße
 
