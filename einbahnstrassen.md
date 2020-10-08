@@ -36,7 +36,7 @@ In diesem Abschnitt <img alt="50" src="signs/274.50.png" height="25"/>.
 
 <a href="media/20200919_185036.jpg"><img alt="Schwarzenbergstraße" src="media/thumb-20200919_185036.jpg"/></a>
 
-### Wagnerstraße, Pferdegasse, Fischerstraße
+### Wagnerstraße, Pferdegasse, Fischerstraße, Am Werthchen, Am Seffersbach
 
 <img alt="verkehrsberuhigt" src="signs/325.1.png" height="25"/>
 
