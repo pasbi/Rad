@@ -1,6 +1,8 @@
-# Radweg Merzig-Brotdorf (L157)
+# Radweg Merzig-Brotdorf
 
-## Situation
+## L157
+
+### Situation
 Zwischen Merzig und Brotdorf, entlang der L157, verlief einst ein Radweg (oder kombinierter Rad-/Fußweg).
 ![Karte](media/map-mzg-bd-l157.png)
 Seit einigen Jahren endet der Rad-/Fußweg am Ortsausgang Merzig.
@@ -21,7 +23,7 @@ In Merzig machen parkende Autos den Weg unzumutbar eng, der Zustand der Deckschi
   <a href="media/mzg-losheimer-str-eng.jpg"><img alt="Weg in Merzig Losheimerstr. eng" src="media/thumb-mzg-losheimer-str-eng.jpg"/></a>
   <a href="media/mzg-losheimer-str-kaputt.jpg"><img alt="Weg in Merzig Losheimerstr. 3" src="media/thumb-mzg-losheimer-str-kaputt.jpg"/></a>
 
-## Verbesserungsvorschläge:
+### Verbesserungsvorschläge:
 
 1. Ausbau
   - baulich getrennter Radweg außerorts (zumindest Leitplanke)
@@ -32,6 +34,13 @@ In Merzig machen parkende Autos den Weg unzumutbar eng, der Zustand der Deckschi
 2. Umleitung Rotenstein
   - konsistente Beschilderung
 
-## Alternativ-Routen
-- [Rotensteiner Weg / Klinkerstraße](radweg_bd-mzg-rotenstein.md)
+### Alternativ-Routen
+- Rotensteinerweg/Klinkerstraße (siehe unten)
+
+## Rotensteinerweg/Klinkerstraße
+<p float="middle">
+  <img alt="Rotensteinerweg" src="media/20200917_194608.jpg" width="40%"/>
+<p/>
+
+
 
