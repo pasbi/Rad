@@ -13,5 +13,6 @@ Auch über neue und gut gelungene Umsetzungen wird informiert.
 - [Torstraße/Fabrikstraße](abzweig-torstr-fabrikstr.md)
 - [Kaufland-Kreuzung](kaufland-kreuzung.md)
 - [Problemstellen](problemstellen.md)
+- [Inkonsistente Beschilderung](inkonsistente-beschilderung.md)
 
 
